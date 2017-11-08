@@ -12,6 +12,7 @@
     "test:watch": "nwb test --server"
   },
   "dependencies": {
+    "@shopify/draggable": "^1.0.0-beta.3"
   },
   "devDependencies": {
     "nwb": "0.19.x"
